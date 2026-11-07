@@ -1,0 +1,24 @@
+# Input PNG images
+/unoptimized/
+
+# Generated optimized images
+/optimized/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
